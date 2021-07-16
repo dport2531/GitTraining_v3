@@ -1,1 +1,4 @@
 This is sample file 1
+
+
+AWS Console Mobile App now supports four additional regions. Download the AWS Console Mobile App to your iOS or Android mobile
