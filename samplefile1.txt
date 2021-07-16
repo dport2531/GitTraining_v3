@@ -6,3 +6,4 @@ AWS Console Mobile App now supports four additional regions. Download the AWS Co
 =======
 This is Comparion lecture
 
+This is a Stash lecture, change in File 1
