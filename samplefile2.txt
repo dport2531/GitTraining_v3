@@ -1,2 +1,4 @@
 This is sample file 2
 GIT REVERT COMMIT
+
+This is Comparion lecture, change in file 2
